@@ -1,3 +1,5 @@
+https://your-github-account.github.io/rsschool-cv/cv
+
 1. Artsiom, Novikau
 2. +375293901711
 3. I have been studying js for 2 years, finished retarcorp courses in Minsk. I want to better understand functions in js, understand development patterns about parts.
